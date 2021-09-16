@@ -1,0 +1,123 @@
+[
+  {
+    "category": "Стулья",
+    "name": "Синий стул",
+    "short_desc": "Синий стул красивый",
+    "image": "products_images/product-2_9bnv80p.jpg",
+    "description": "Синий стул красивый для Вас",
+    "price": "500.00",
+    "quantity": 49,
+    "is_active": true
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул",
+    "short_desc": "Красивый стул",
+    "image": "products_images/product-4_IAu7ePX.jpg",
+    "description": "Красивый стул для Вас",
+    "price": "500.00",
+    "quantity": 26,
+    "is_active": true
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул красный",
+    "short_desc": "Великолепный красный стул",
+    "image": "products_images/slider1.jpg",
+    "description": "Великолепный красный стул для Вас",
+    "price": "750.00",
+    "quantity": 70,
+    "is_active": true
+  },
+  {
+    "category": "Лампы",
+    "name": "Лампа куханная",
+    "short_desc": "Лампа куханная для Вас",
+    "image": "products_images/product-5-sm.jpg",
+    "description": "Лампа красивая куханная для Вас",
+    "price": "1440.00",
+    "quantity": 22,
+    "is_active": true
+  },
+  {
+    "category": "Лампы",
+    "name": "Лампа подвесная",
+    "short_desc": "Лампа подвесная класика",
+    "image": "products_images/product-11.jpg",
+    "description": "Лампа подвесная класика для Вас",
+    "price": "2160.00",
+    "quantity": 56,
+    "is_active": true
+  },
+  {
+    "category": "Стулья",
+    "name": "Стул белый",
+    "short_desc": "Красивый белый стул",
+    "image": "products_images/product-21_EXhpKUE.jpg",
+    "description": "Очень красивый белый стул",
+    "price": "500.00",
+    "quantity": 33,
+    "is_active": true
+  },
+  {
+    "category": "Лампы",
+    "name": "Настольная лампа",
+    "short_desc": "Настольная лампа черная",
+    "image": "products_images/product-31.jpg",
+    "description": "Настольная лампа черного цвета",
+    "price": "792.00",
+    "quantity": 31,
+    "is_active": true
+  },
+  {
+    "category": "Лампы",
+    "name": "Черная лампа",
+    "short_desc": "Красивая лампа",
+    "image": "products_images/product-41.jpg",
+    "description": "Красивая лампа черного цвета",
+    "price": "3600.00",
+    "quantity": 13,
+    "is_active": true
+  },
+  {
+    "category": "Прочее",
+    "name": "Диван",
+    "short_desc": "Отличный диван",
+    "image": "products_images/product-3-sm_nO1sOI8.jpg",
+    "description": "Отличный диван для Вас",
+    "price": "10000.00",
+    "quantity": 100,
+    "is_active": true
+  },
+  {
+    "category": "Прочее",
+    "name": "Часы",
+    "short_desc": "Красивые часики",
+    "image": "products_images/product-4-sm_VLJTVWH.jpg",
+    "description": "Красивые часики для Вас",
+    "price": "760.00",
+    "quantity": 152,
+    "is_active": true
+  },
+  {
+    "category": "Прочее",
+    "name": "Штучка",
+    "short_desc": "Интересная штучка",
+    "image": "products_images/product-51.jpg",
+    "description": "Очень интересная штучка",
+    "price": "1900.00",
+    "quantity": 1333,
+    "is_active": true
+  },
+  {
+    "category": "Прочее",
+    "name": "Ваза",
+    "short_desc": "Красивая ваза",
+    "image": "products_images/product-61.jpg",
+    "description": "Красивая ваза для вашего интерьера",
+    "price": "500.00",
+    "quantity": 103,
+    "is_active": true
+  }
+  }
+]
