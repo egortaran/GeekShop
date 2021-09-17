@@ -83,13 +83,13 @@ Apps: ```adminapp```, ```authapp```, ```basketapp```, ```mainapp```, ```ordersap
   - Админка. Django
   - А так же можно посмотреть свою информацию и изменить ее.
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%BF%D1%80%D0%BE%D1%84_%D0%BC%D0%B5%D0%B4_%D0%B0%D0%B4%D0%BC.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/pma.png">
 </p>
 
 ## Админка Django
 На сайте можно использовать админку от Django. **Пользователи**, **Корзина**, **Категории**, **Товары**, **Заказы** доступны к редактированию.
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%B0%D0%B4%D0%BC_django.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/admin_django.png">
 </p>
 
 ## Кастомизированная админка
@@ -99,36 +99,36 @@ Apps: ```adminapp```, ```authapp```, ```basketapp```, ```mainapp```, ```ordersap
   - Редактировать
   - Удалить
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/categories.png">
 </p>
 
 #### Товары категории
 Их также можно **посмотреть**, **редактировать** и **удалить/востановить** (используется параметр ```is_active```).
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D1%8B%20%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8.png">
+  <img src=https://github.com/egortaran/GeekShop/blob/main/image/product_categore.png">
 </p>
 
 #### Редактировать
 При добавленни скидки изменяется цена на все товары данной категории. **Имя** категории, **Описание**, ```is_active``` доступны к редактированию.
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/edit.png">
 </p>
 
 ### Заказ
 #### Добавление заказа
 Заказ формируется от корзины пользователя. При создании заказа мы также можем его отредактировать. Нажав на **сохранить**, мы создаем заказ, который требуется подтвердить.
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7_%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/new_order.png">
 </p>
 
 #### Подтверждение заказа
 Отображается информация о заказе. Нажав на **совершить покупку**, идет подтверждение. Обновление происходит при помощью ```models.DateTimeField(auto_now=True)```
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%9F%D0%BE%D0%B4%D1%82%D0%B2%D0%B5%D1%80%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%B0.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/accept.png">
 </p>
 
 #### Просмотр заказов
 И, наконец, просмотр всех заказов. **CRUD** операции доступны на этой странице
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%B2%D1%81%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D1%8B.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/orders.png">
 </p>
