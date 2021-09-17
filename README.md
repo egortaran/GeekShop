@@ -56,25 +56,25 @@ Apps: ```adminapp```, ```authapp```, ```basketapp```, ```mainapp```, ```ordersap
 
 <table>
   <tr>
-    <td><img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%BF%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80_1.png" alt=""  width="640" height="341"></td>
-     <td><img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%BF%D0%B0%D0%B3%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80_2.png" alt="" width="640" height="341">  </tr>
+    <td><img src="https://github.com/egortaran/GeekShop/blob/main/image/pg_1.png" alt=""  width="640" height="341"></td>
+    <td><img src="https://github.com/egortaran/GeekShop/blob/main/image/pg_2.png" alt="" width="640" height="341"> </tr>
 </table>
 
 ### Весь список товаров
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B5%20%D0%A2%D0%BE%D0%B2%D0%B0%D1%80%D1%8B.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/all_product.png">
 </p>
 
 ## Корзина
 ### Добавление товара в корзину
 Добавить товар можно, нажав на **Заказать**. В качестве примера взята "Настольная лампа" из категории "Лампы". В меню страницы появится корзина с суммой заказа и количеством товара в ней.
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/basket_order.png">
 </p>
 Добавим еще "Часы" из категории "Другое", после чего перейдем в козину. В корзине можно изменить количество товара, общая стоимость обновиться автоматически. Одним кликом можно удалить товар из корзины.
 
 <p align="center">
-  <img src="https://github.com/egortaran/Prepare_readme/blob/main/image/%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0.png">
+  <img src="https://github.com/egortaran/GeekShop/blob/main/image/basket.png">
 </p>
 
 ## Админка
